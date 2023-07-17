@@ -1,3 +1,2 @@
-[[redirects]]
-  from = "/*"
-  to = "/"
+[build]
+  publish = "path/to/public"
